@@ -1,4 +1,10 @@
-# Icons
+---
+description: Red Team Operator
+---
+
+# CRTO
+
+<figure><img src="../../.gitbook/assets/Zero-Point Security - Red Team Operator - 2023-06-05.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Good to know:** you can embed a Storybook canvas by simple pasting the canvas link and hitting enter.

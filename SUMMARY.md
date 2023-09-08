@@ -23,7 +23,7 @@
 
 ## Active Directory
 
-* [Logos](active-directory/logos.md)
+* [Domain Architecture](active-directory/domain-architecture.md)
 * [Colors](active-directory/colors.md)
 * [Typography](active-directory/typography.md)
 * [Imagery](active-directory/imagery.md)
