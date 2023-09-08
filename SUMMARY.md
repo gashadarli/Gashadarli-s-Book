@@ -9,15 +9,28 @@
 * [How updates work](introduction/how-updates-work.md)
 * [Accessibility](introduction/accessibility.md)
 
-## identity
+## Web-App Security
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Page 2](web-app-security/page-2.md)
 
-## Components
+## Mobile-App Security
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Preparation for Lab](mobile-app-security/preparation-for-lab.md)
+
+## Buffer Overflow
+
+* [Page 3](buffer-overflow/page-3.md)
+
+## Active Directory
+
+* [Logos](active-directory/logos.md)
+* [Colors](active-directory/colors.md)
+* [Typography](active-directory/typography.md)
+* [Imagery](active-directory/imagery.md)
+
+## Exams
+
+* [CRTO](exams/crto.md)
+* [eCPPTv2](exams/ecpptv2.md)
+* [eWPT](exams/ewpt.md)
+* [eJPTv1](exams/ejptv1.md)
