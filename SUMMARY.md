@@ -58,3 +58,7 @@
 * [eCPPTv2](certificates-and-exams/ecpptv2.md)
 * [eWPT](certificates-and-exams/ewpt.md)
 * [eJPTv1](certificates-and-exams/ejptv1.md)
+
+## OSEP
+
+* [Page 1](osep/page-1.md)
