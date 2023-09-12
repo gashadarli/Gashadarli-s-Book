@@ -35,6 +35,14 @@ High-level proqramlaşdırma dilləri insanlar tərəfindən oxunulması və yaz
 
 Resources:
 
-
+{% embed url="https://en.wikipedia.org/wiki/Interpreter_(computing)" %}
+İnterpreter Proqramlaşdırma
+{% endembed %}
 
 {% embed url="https://en.wikipedia.org/wiki/Compiled_language" %}
+Compiled Proqramlaşdırma
+{% endembed %}
+
+Təməldə CPU, compiled koddan qaynaqlanan opcode(operating codes)\`lara dayanaraq hərəkət göstərir. Opcode CPU səviyyəsində idarə etmək üçün istifadə edilən funksiyalar və onların binary dəyərləridir. CPU-nun müəyyən bir hərəkətə uyğunlaşdırdığı binar dəyərdə deyilə bilər. &#x20;
+
+<figure><img src=".gitbook/assets/opcodes2.jpg" alt=""><figcaption><p>Opcodes və onların binary dəyərləri</p></figcaption></figure>
