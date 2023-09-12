@@ -61,4 +61,8 @@
 
 ## OSEP
 
-* [Giriş](osep/giris.md)
+* [Giriş](osep/page-1.md)
+
+***
+
+* [Programming Theory](programming-theory.md)
