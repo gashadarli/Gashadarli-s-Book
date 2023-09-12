@@ -62,10 +62,7 @@
 ## OSEP
 
 * [İntroduction](osep/introduction.md)
-
-***
-
-* [Programming Theory](programming-theory.md)
+* [Programming Theory](osep/programming-theory.md)
 
 ## OSWE
 

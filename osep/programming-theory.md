@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/coding.jpg
+cover: ../.gitbook/assets/coding.jpg
 coverY: 0
 layout:
   cover:
@@ -45,4 +45,4 @@ Compiled Proqramlaşdırma
 
 Təməldə CPU, compiled koddan qaynaqlanan opcode(operating codes)\`lara dayanaraq hərəkət göstərir. Opcode CPU səviyyəsində idarə etmək üçün istifadə edilən funksiyalar və onların binary dəyərləridir. CPU-nun müəyyən bir hərəkətə uyğunlaşdırdığı binar dəyərdə deyilə bilər. &#x20;
 
-<figure><img src=".gitbook/assets/opcodes2.jpg" alt=""><figcaption><p>Opcodes və onların binary dəyərləri</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/opcodes2.jpg" alt=""><figcaption><p>Opcodes və onların binary dəyərləri</p></figcaption></figure>
