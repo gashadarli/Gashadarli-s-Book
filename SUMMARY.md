@@ -61,8 +61,14 @@
 
 ## OSEP
 
-* [Giriş](osep/page-1.md)
+* [İntroduction](osep/introduction.md)
 
 ***
 
 * [Programming Theory](programming-theory.md)
+
+## OSWE
+
+* [Introduction](oswe/introduction.md)
+* [Burpsuite](oswe/burpsuite.md)
+* [Programming](oswe/programming.md)
