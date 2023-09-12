@@ -61,4 +61,4 @@
 
 ## OSEP
 
-* [Page 1](osep/page-1.md)
+* [Giriş](osep/giris.md)
