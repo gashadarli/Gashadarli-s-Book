@@ -63,6 +63,8 @@
 
 * [İntroduction](osep/introduction.md)
 * [Programming Theory](osep/programming-theory.md)
+* [Windows Concepts](osep/windows-concepts.md)
+* [Client Side Code Execution With Office](osep/client-side-code-execution-with-office.md)
 
 ## OSWE
 

@@ -43,6 +43,8 @@ Resources:
 Compiled Proqramlaşdırma
 {% endembed %}
 
-Təməldə CPU, compiled koddan qaynaqlanan opcode(operating codes)\`lara dayanaraq hərəkət göstərir. Opcode CPU səviyyəsində idarə etmək üçün istifadə edilən funksiyalar və onların binary dəyərləridir. CPU-nun müəyyən bir hərəkətə uyğunlaşdırdığı binar dəyərdə deyilə bilər. &#x20;
+Təməldə CPU, compiled koddan qaynaqlanan opcode(operating codes)'lara dayanaraq hərəkət göstərir. Opcode CPU səviyyəsində idarə etmək üçün istifadə edilən funksiyalar və onların binary dəyərləridir. CPU-nun müəyyən bir hərəkətə uyğunlaşdırdığı binar dəyərdə deyilə bilər və bu funksiyalara Assembly proqramlaşdırma dilində rast gəlmək mümkündür. &#x20;
 
 <figure><img src="../.gitbook/assets/opcodes2.jpg" alt=""><figcaption><p>Opcodes və onların binary dəyərləri</p></figcaption></figure>
+
+Windows və ya Linux kompüterləri ilə məşğul olanda biz adətən x86 arxitekturası ilə maraqlanırıq. Arxitektura hansı opcode (əməliyyat kodları) etibarlı olduğunu və assembly'də hansı funksionallığa uyğun olduqlarını təyin edir. Eyni şey əksər smartfon və planşetlərdə istifadə olunan ARM kimi digər CPU arxitekturalarına da aiddir. Əməliyyat sistemi və ya brauzerin əsas komponentləri kimi aşağı yük və yüksək səmərəlilik tələb edən proqramlar adətən assembly'də yazılmış elementlərə malikdir. Penetration Tester kimi Assembly kodunu tez-tez yazmasaq da, təhlükəsizlik məhsullarından müxtəlif yan keçmə(bypass etmə) metodları və ya daha təkmil hücumlar həyata keçirmək üçün onu başa düşmək faydalı ola bilər. C kimi bir dili nəzərdən keçirdikdə, C hələ də nisbətən aşağı səviyyəli bir dil hesab edilsə də, daha çox insan tərəfindən oxuna bilən sintaksisdən istifadə edirik.
