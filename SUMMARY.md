@@ -84,7 +84,6 @@
   * [Microsoft Defender Antivirus](certificates-and-exams/crto/microsoft-defender-antivirus.md)
   * [Application Whitelisting](certificates-and-exams/crto/application-whitelisting.md)
   * [Data Hunting & Exfiltration](certificates-and-exams/crto/data-hunting-and-exfiltration.md)
-* [eCPPTv2](certificates-and-exams/ecpptv2.md)
 * [eWPT](certificates-and-exams/ewpt.md)
 * [eJPTv1](certificates-and-exams/ejptv1.md)
 
