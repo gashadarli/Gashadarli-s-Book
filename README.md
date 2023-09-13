@@ -1,4 +1,4 @@
-# 🖌 Getting started
+# 🧑💻 About me
 
 ## Welcome !
 
