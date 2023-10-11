@@ -1,6 +1,6 @@
 ---
 description: Burada OSEP İmtahanının rəsmi dərsliyinin tərcümə edilmiş halı mövcuddur.
-cover: ../.gitbook/assets/offsec-say-tryharder-798x284.png
+cover: ../../.gitbook/assets/offsec-say-tryharder-798x284.png
 coverY: 0
 layout:
   cover:
@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# Giriş
+# İntroduction
 
-<figure><img src="../.gitbook/assets/osep.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/osep.png" alt=""><figcaption></figcaption></figure>

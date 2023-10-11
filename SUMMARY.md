@@ -46,19 +46,17 @@
 
 * [Preparation for Lab](mobile-app-security/preparation-for-lab.md)
 
-## Buffer Overflow
-
-* [Page 3](buffer-overflow/page-3.md)
-
 ## Active Directory
 
 * [Domain Architecture](active-directory/domain-architecture.md)
-* [Colors](active-directory/colors.md)
-* [Typography](active-directory/typography.md)
-* [Imagery](active-directory/imagery.md)
 
 ## Certificates & Exams
 
+* [OSEP](certificates-and-exams/osep/README.md)
+  * [İntroduction](certificates-and-exams/osep/introduction.md)
+  * [Programming Theory](certificates-and-exams/osep/programming-theory.md)
+  * [Windows Concepts](certificates-and-exams/osep/windows-concepts.md)
+  * [Client Side Code Execution With Office](certificates-and-exams/osep/client-side-code-execution-with-office.md)
 * [CRTO](certificates-and-exams/crto/README.md)
   * [Command & Control](certificates-and-exams/crto/command-and-control.md)
   * [External Reconnaissance](certificates-and-exams/crto/external-reconnaissance.md)
@@ -84,19 +82,26 @@
   * [Microsoft Defender Antivirus](certificates-and-exams/crto/microsoft-defender-antivirus.md)
   * [Application Whitelisting](certificates-and-exams/crto/application-whitelisting.md)
   * [Data Hunting & Exfiltration](certificates-and-exams/crto/data-hunting-and-exfiltration.md)
-* [eWPT](certificates-and-exams/ewpt.md)
+* [OSWE](certificates-and-exams/oswe/README.md)
+  * [Introduction](certificates-and-exams/oswe/introduction.md)
+  * [Burpsuite](certificates-and-exams/oswe/burpsuite.md)
+  * [Programming](certificates-and-exams/oswe/programming.md)
+  * [Atmail Mail Server Appliance: from XSS to RCE](certificates-and-exams/oswe/atmail-mail-server-appliance-from-xss-to-rce.md)
+* [eWPTXv2](certificates-and-exams/ewptxv2/README.md)
+  * [Encoding and Filtering](certificates-and-exams/ewptxv2/encoding-and-filtering.md)
+  * [Evasion Basics](certificates-and-exams/ewptxv2/evasion-basics.md)
+  * [Cross-Site Scripting](certificates-and-exams/ewptxv2/cross-site-scripting.md)
+  * [XSS - Filter Evasion and WAF Bypassing](certificates-and-exams/ewptxv2/xss-filter-evasion-and-waf-bypassing.md)
+  * [Cross-Site Request Forgery](certificates-and-exams/ewptxv2/cross-site-request-forgery.md)
+  * [HTML5](certificates-and-exams/ewptxv2/html5.md)
+  * [SQL Injection](certificates-and-exams/ewptxv2/sql-injection.md)
+  * [SQLi - Filter Evasion and WAF Bypassing](certificates-and-exams/ewptxv2/sqli-filter-evasion-and-waf-bypassing.md)
+  * [XML Attacks](certificates-and-exams/ewptxv2/xml-attacks.md)
+  * [Attacking Serialization](certificates-and-exams/ewptxv2/attacking-serialization.md)
+  * [Server Side Attacks](certificates-and-exams/ewptxv2/server-side-attacks.md)
+  * [Attacking Crypto](certificates-and-exams/ewptxv2/attacking-crypto.md)
+  * [Attacking Authentication & SSO](certificates-and-exams/ewptxv2/attacking-authentication-and-sso.md)
+  * [Pentesting APIs & Cloud Applications](certificates-and-exams/ewptxv2/pentesting-apis-and-cloud-applications.md)
+  * [Attacking LDAP-based Implementations](certificates-and-exams/ewptxv2/attacking-ldap-based-implementations.md)
+* [eWPTv1](certificates-and-exams/ewptv1.md)
 * [eJPTv1](certificates-and-exams/ejptv1.md)
-
-## OSEP
-
-* [İntroduction](osep/introduction.md)
-* [Programming Theory](osep/programming-theory.md)
-* [Windows Concepts](osep/windows-concepts.md)
-* [Client Side Code Execution With Office](osep/client-side-code-execution-with-office.md)
-
-## OSWE
-
-* [Introduction](oswe/introduction.md)
-* [Burpsuite](oswe/burpsuite.md)
-* [Programming](oswe/programming.md)
-* [Atmail Mail Server Appliance: from XSS to RCE](oswe/atmail-mail-server-appliance-from-xss-to-rce.md)
